@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSIT158API", "MSIT158API.csproj", "{32930C7F-2C04-477F-B933-6635D053ACA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSIT158Site", "..\MSIT158Site-main\MSIT158Site.csproj", "{CF226ADD-FC6E-4C36-A18A-61A024FCEECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32930C7F-2C04-477F-B933-6635D053ACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32930C7F-2C04-477F-B933-6635D053ACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32930C7F-2C04-477F-B933-6635D053ACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32930C7F-2C04-477F-B933-6635D053ACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF226ADD-FC6E-4C36-A18A-61A024FCEECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF226ADD-FC6E-4C36-A18A-61A024FCEECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF226ADD-FC6E-4C36-A18A-61A024FCEECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF226ADD-FC6E-4C36-A18A-61A024FCEECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD06E49-2A52-4BA9-B233-69ED19968EBF}
+	EndGlobalSection
+EndGlobal
